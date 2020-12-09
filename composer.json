@@ -1,5 +1,5 @@
 {
-    "name": "soflomo/purifier",
+    "name": "ddetyuk/purifier",
     "description": "HTML Purifier integration module for Zend Framework 3",
     "license": "BSD-3-Clause",
     "type": "library",
@@ -10,7 +10,7 @@
         "purifier",
         "filter"
     ],
-    "homepage": "https://github.com/juriansluiman/Soflomo-Purifier",
+    "homepage": "https://github.com/ddetyuk/Soflomo-Purifier",
     "authors": [
         {
             "name": "Jurian Sluiman",
