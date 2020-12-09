@@ -6,8 +6,8 @@
 namespace Soflomo\Purifier\Factory;
 
 use Interop\Container\ContainerInterface;
+use Laminas\ServiceManager\Factory\FactoryInterface;
 use Soflomo\Purifier\PurifierFilter;
-use Zend\ServiceManager\Factory\FactoryInterface;
 
 class PurifierFilterFactory implements FactoryInterface
 {

@@ -5,7 +5,7 @@
 
 namespace Soflomo\Purifier;
 
-use Zend\ModuleManager\Feature;
+use Laminas\ModuleManager\Feature;
 
 class Module implements Feature\ConfigProviderInterface
 {

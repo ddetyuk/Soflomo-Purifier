@@ -7,11 +7,11 @@ namespace Soflomo\Purifier\Test;
 
 use HTMLPurifier;
 use HTMLPurifier_Config;
+use Laminas\InputFilter\InputFilter;
+use Laminas\Mvc\Application;
+use Laminas\ServiceManager\ServiceManager;
 use PHPUnit_Framework_TestCase as TestCase;
 use Soflomo\Purifier;
-use Zend\InputFilter\InputFilter;
-use Zend\Mvc\Application;
-use Zend\ServiceManager\ServiceManager;
 
 class ModuleIntegrationTest extends TestCase
 {

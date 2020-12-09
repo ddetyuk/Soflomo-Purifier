@@ -7,7 +7,7 @@ namespace Soflomo\Purifier\Factory;
 
 use HTMLPurifier;
 use HTMLPurifier_Config;
-use Zend\ServiceManager\ServiceLocatorInterface;
+use Laminas\ServiceManager\ServiceLocatorInterface;
 
 class HtmlPurifierFactory
 {

@@ -6,7 +6,7 @@
 namespace Soflomo\Purifier;
 
 use HTMLPurifier;
-use Zend\View\Helper\AbstractHelper;
+use Laminas\View\Helper\AbstractHelper;
 
 class PurifierViewHelper extends AbstractHelper
 {

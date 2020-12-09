@@ -9,10 +9,10 @@ use HTMLPurifier_AttrDef_Enum;
 use HTMLPurifier_Config;
 use HTMLPurifier_ElementDef;
 use HTMLPurifier_HTMLDefinition;
+use Laminas\ServiceManager\ServiceManager;
 use PHPUnit_Framework_TestCase as TestCase;
 use Soflomo\Purifier\Factory\HtmlPurifierConfigFactory;
 use VirtualFileSystem\FileSystem;
-use Zend\ServiceManager\ServiceManager;
 
 class HtmlPurifierConfigFactoryTest extends TestCase
 {
